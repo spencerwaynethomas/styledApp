@@ -32,4 +32,4 @@ const Transparent = styled.div`
 
 
 
-export default App;
+export default App
